@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8s7UCtJIXG3eIjNcckHgq38v16DHriv0h407o3J34vr+z5osGSRZwBUqwYAOhjJaIs16Q1ed4BAGJEXClpcvRw==",
+  "success": true,
+  "projectFilePath": "F:\\VS-Pro\\MailSend-Demo\\ConfigServices\\ConfigServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\song1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\song1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

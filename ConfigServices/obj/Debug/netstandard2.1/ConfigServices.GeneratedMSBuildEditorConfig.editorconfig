@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ConfigServices
+build_property.ProjectDir = F:\VS-Pro\MailSend-Demo\ConfigServices\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
